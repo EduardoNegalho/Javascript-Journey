@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório de aprendizado de JavaScript! Este repositório co
 O repositório conterá uma estrutura de pastas bem definidas para cada tópico específico dentro do aprendizado de JavaScript.
 
 **01-sintaxe-basica**
-   - Introdução aos fundamentos de JavaScript, incluindo variáveis, tipos de dados, operadores, controle de fluxo e funções.
+   - Introdução aos fundamentos de JavaScript, incluindo variáveis, condicionais, loops e funções.
 
 <!-- 2. **02-estrutura-de-dados**
    - Exemplos e práticas de estruturas de dados fundamentais em JavaScript, como arrays, listas encadeadas, pilhas, filas e árvores.
