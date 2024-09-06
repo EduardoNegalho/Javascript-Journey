@@ -6,19 +6,19 @@ Bem-vindo ao meu repositório de aprendizado de JavaScript! Este repositório co
 
 O repositório conterá uma estrutura de pastas bem definidas para cada tópico específico dentro do aprendizado de JavaScript.
 
-**01-fundamentos**
+**01-fundamentals**
    - Introdução aos fundamentos de JavaScript, incluindo variáveis, condicionais, loops e funções.
 
-<!-- 2. **02-estrutura-de-dados**
-   - Exemplos e práticas de estruturas de dados fundamentais em JavaScript, como arrays, listas encadeadas, pilhas, filas e árvores.
+**02-oop (Programação Orientada a Objetos)**
+   - Princípios da programação orientada a objetos em JavaScript, incluindo classes, herança, polimorfismo, encapsulamento, abstração.
 
-3. **03-algorithms**
+**03-algorithms**
    - Implementação de algoritmos comuns, como ordenação, busca, recursão, e análise de complexidade de tempo.
 
-4. **04-oop (Programação Orientada a Objetos)**
-   - Princípios da programação orientada a objetos em JavaScript, incluindo classes, herança, polimorfismo, encapsulamento, abstração e padrões de design.
+**04-pratice**
+   - Colocando os conhecimentos em prática através de exercicios que buscam o aprimoramento da lógica de programação e utilização dos conceitos aprendidos.
 
-5. **05-async-programming (Programação Assíncrona)**
+<!-- 5. **05-async-programming (Programação Assíncrona)**
    - Conceitos e práticas de programação assíncrona em JavaScript, incluindo callbacks, Promises, async/await, e o Event Loop.
 
 6. **06-nodejs**
@@ -32,11 +32,11 @@ Se você é um iniciante, recomendo começar pela pasta `01-sintaxe-basica`, que
 
 ### Exemplos de Uso
 
-- **01-fundamentos:** Aprenda como declarar variáveis, manipular tipos de dados e criar funções básicas.
-<!-- - **02-estrutura-de-dados:** Implemente listas encadeadas e explore como funcionam pilhas e filas.
-- **03-algorithms:** Pratique algoritmos de ordenação como bubble sort e quick sort.
-- **04-oop:** Crie suas próprias classes e entenda como funciona a herança e o polimorfismo em JavaScript.
-- **05-async-programming:** Trabalhe com operações assíncronas usando Promises e async/await.
+- **01-fundamentals:** Aprenda como declarar variáveis, manipular tipos de dados e criar funções básicas.
+- **02-oop (Programação Orientada a Objetos):** Aprenda sobre o mundo da POO em javascript.
+- **03-algorithms:** Algoritmos realizados após leitura do livro "Entendendo Algoritimos".
+- **04-pratice:** Praticando Javascript com exercicios para fortalecer a lógica de programação, aqui terá exercicios próprios e de sites de exercicios.
+<!-- - **05-async-programming:** Trabalhe com operações assíncronas usando Promises e async/await.
 - **06-nodejs:** Construa servidores com Express, manipule arquivos e conecte-se a bancos de dados. -->
 
 ## Contato
